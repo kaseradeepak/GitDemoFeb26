@@ -4,3 +4,4 @@ Pune
 Chennai
 Hyderabad
 Bangalore
+Jaipur
