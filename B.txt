@@ -3,3 +3,4 @@ Mumbai
 Pune
 Chennai
 Hyderabad
+Bangalore
